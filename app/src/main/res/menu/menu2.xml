@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuInfoCategorias"
+        android:title="Info. categorias" />
+    <item
+        android:id="@+id/menuExcluirConta"
+        android:title="Excluir conta" />
+    <item
+        android:id="@+id/menuSobre"
+        android:title="Sobre" />
+    <item
+        android:id="@+id/menuSair"
+        android:title="Sair" />
+</menu>

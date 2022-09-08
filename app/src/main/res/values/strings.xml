@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Vault Storage</string>
+    <string name="Título">Vault Storage</string>
+    <string name="título">Vault Storage</string>
+    <string name="nome">Nome:</string>
+    <string name="about">Sobre</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="pesquisa">número do aluguel</string>
+
+    <string-array name="categorias_locais">
+        <item>guarda-volumes</item>
+        <item>contêiner</item>
+        <item>quarto</item>
+        <item>galpão</item>
+    </string-array>
+</resources>
